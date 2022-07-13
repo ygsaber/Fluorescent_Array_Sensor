@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fluorescent_Array_Sensor</string>
+    <string name="Load_a_image">Load a image</string>
+    <string name="Calculate">Calculate</string>
+    <string name="image">image</string>
+    <string name="textView">Input Row and Col</string>
+    <string name="result">result</string>
+    <string name="Save">Save</string>
+    <string name="Take_a_photo">Take a photo</string>
+
+</resources>
